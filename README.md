@@ -3,6 +3,7 @@ Uno de mis pasatiempos favoritos es leer. Tengo una gran cantidad de libros, pri
 Necesito que me ayudes a construir una aplicación en donde pueda revisar todos mis libros y ver cuales están prestados. Me interesa saber el título del libro y su autor. El estado del libro puede ser prestado o en estante y también quiero saber la fecha que he prestado y me han devuelto los libros.
 
 ## Instrucciones
-- Generar los controladores, modelos y todas las vistas vistas. Generar los archivos a mano. (5 Puntos)
+- Generar los controladores, modelos y todas las vistas vistas. Generar los archivos a mano.
 - Agregar un filtro para buscar sólo por estado y que la lista de libros sea ordenable
-por título. (5 Puntos)
+por título.
+
